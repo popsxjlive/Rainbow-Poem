@@ -2,5 +2,6 @@ Red
 Orange
 Yellow
 Green
+Navy
 Blue
 These fucking colors consists of a beautiful rainbow.
